@@ -2,7 +2,7 @@
   "name": "react-todolist",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Kisky3.github.io/react-todolist",
+  "homepage": "https://github.com/Kisky3/react-todolist",
   "dependencies": {
     "react": "^16.10.1",
     "react-dom": "^16.10.1",
