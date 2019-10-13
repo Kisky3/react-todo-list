@@ -4,9 +4,13 @@
   "homepage": "https://Kisky3.github.io/react-todolist",
   "private": true,
   "dependencies": {
+    "bootstrap": "^4.3.1",
     "react": "^16.4.1",
+    "react-bootstrap": "^1.0.0-beta.14",
     "react-dom": "^16.4.1",
-    "react-scripts": "1.1.4"
+    "react-redux": "^7.1.1",
+    "react-scripts": "1.1.4",
+    "redux": "^4.0.4"
   },
   "scripts": {
     "start": "react-scripts start",
