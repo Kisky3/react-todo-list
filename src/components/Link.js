@@ -13,6 +13,7 @@ const Link = ({ active, children, onClick }) => (
     </button>
 )
 
+/* Fix: Use react props and typescript */
 Link.propTypes = {
     active: PropTypes.bool.isRequired,
     children: PropTypes.node.isRequired,

@@ -14,6 +14,7 @@ const TodoList = ({ todos, toggleTodo }) => (
   </ul>
 )
 
+/* Fix: Use react props and typescript */
 TodoList.propTypes = {
   todos: PropTypes.arrayOf(PropTypes.shape({
     id: PropTypes.number.isRequired,
