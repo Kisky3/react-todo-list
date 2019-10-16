@@ -12,6 +12,7 @@ const Todo = ({ onClick, completed, text }) => (
   </li>
 )
 
+/* Fix: Use react props and typescript */
 Todo.propTypes = {
   onClick: PropTypes.func.isRequired,
   completed: PropTypes.bool.isRequired,
