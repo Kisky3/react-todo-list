@@ -11,7 +11,7 @@ const TodoList = ({ todos, toggleTodo }) => (
         onClick={() => toggleTodo(todo.id)}
       />
     )}
-  </ul>
+  </ul> 
 )
 
 /* Fix: Use react props and typescript */
